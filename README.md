@@ -1,4 +1,5 @@
 
+# AVSR 
 
 ```bash
 git clone https://github.com/SRI-CSL/TrinityMultimodalTrojAI.git
@@ -14,7 +15,6 @@ pip install spacy-loggers==1.0.3
 pip install en-vectors-web-lg==2.1.0
 pip install torch==1.10.2
 pip install pycocotools==2.0.5
-
 
 # Successfully installed blis-0.2.4 jsonschema-2.6.0 plac-0.9.6 preshed-2.0.1 spacy-2.1.0 thinc-7.0.8
 
