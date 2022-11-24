@@ -1,7 +1,5 @@
 # AVSR 
 ```bash
-git clone https://github.com/SRI-CSL/TrinityMultimodalTrojAI.git
-
 pip install fvcore=0.1.5
 pip install catalogue-1.0.0 en-vectors-web-lg-2.1.0 plac-1.1.3 spacy-2.3.7 srsly-1.0.5 thinc-7.4.5
 
